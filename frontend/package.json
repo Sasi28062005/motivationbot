@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.6",
+    "@mui/material": "^6.4.6",
+    "axios": "^1.8.1",
+    "neo4j-driver": "^5.28.1",
+    "react-markdown": "^10.0.1",
+    "react-router-dom": "^7.2.0",
+    "react-scripts": "^5.0.1",
+    "react-speech-recognition": "^3.10.0",
+    "react-syntax-highlighter": "^15.6.1",
+    "remark-gfm": "^4.0.1",
+    "uuid": "^11.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
